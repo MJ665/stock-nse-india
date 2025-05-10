@@ -129,9 +129,9 @@ or
 yarn start
 ```
 
-**Then open the URL http://localhost:3000 in browser.**
+**Then open the URL http://localhost:8000 in browser.**
 
-For API service documentation please hit http://localhost:3000/api-docs
+For API service documentation please hit http://localhost:8000/api-docs
 
 ## CLI
 

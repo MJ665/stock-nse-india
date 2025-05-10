@@ -1,6 +1,6 @@
 import swaggerJsDoc from 'swagger-jsdoc'
 
-const port = process.env.PORT || 3000
+const port = process.env.PORT || 8000
 const hostUrl = process.env.HOST_URL || `http://localhost:${port}`
 export const swaggerDocOptions = {
     definition: {
